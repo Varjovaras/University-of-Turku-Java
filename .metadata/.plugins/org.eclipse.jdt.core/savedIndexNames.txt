@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/kristjan/Documents/GitHub/utujava/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+974852058.index
+2017824918.index
